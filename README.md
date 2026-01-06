@@ -14,14 +14,7 @@
 ### 🛠️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=dotnet,csharp,aspnet,visualstudio,vscode,git,github,azure,sqlserver,postgres,mongodb" />
 <!-- Thêm/bớt icon tại https://skillicons.dev (có sẵn dotnet, csharp, aspnet, azure, sqlserver...) -->
-![metrics plugin reactions](https://github.com/user-attachments/assets/ddff5e86-1d95-4210-a809-08913111b283)
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pum283&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Pum283&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pum283&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
-</div>
 
 ⚡ **Fun fact**: Sáng mà làm ly đen đá không đường thì hết bài ☕ 🇻🇳
