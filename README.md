@@ -1,4 +1,4 @@
-![metrics plugin reactions](https://github.com/user-attachments/assets/ddff5e86-1d95-4210-a809-08913111b283)<img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Coding Banner" width="100%"/>
+<img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Coding Banner" width="100%"/>
 
 # Hi there, I'm Nguyễn Đình Mạnh Hùng - Pum 👋
 
@@ -16,6 +16,7 @@
 /icons?i=dotnet,csharp,aspnet,visualstudio,vscode,git,github,azure,sqlserver,postgres,mongodb" />
 
 <!-- Thêm/bớt icon tại https://skillicons.dev (có sẵn dotnet, csharp, aspnet, azure, sqlserver...) -->
+![metrics plugin reactions](https://github.com/user-attachments/assets/ddff5e86-1d95-4210-a809-08913111b283)
 
 ### 📊 GitHub Stats
 <div align="center">
