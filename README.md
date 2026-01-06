@@ -12,7 +12,7 @@
 <!-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) -->
 
 ### 🛠️ Tech Stack & Tools
-<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,azure,postgres,mongodb,dotnet, csharp, aspnet, azure, sqlserver" />
+<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,azure,postgres,mongodb,dotnet,csharp,aspnet,azure,sqlserver" />
 
 <!-- Thêm/bớt icon tại https://skillicons.dev (có sẵn dotnet, csharp, aspnet, azure, sqlserver...) -->
 
