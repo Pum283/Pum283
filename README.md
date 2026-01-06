@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt=".NET Coding Banner" width="100%"/>
+<img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Coding Banner" width="100%"/>
 
 # Hi there, I'm Nguyễn Đình Mạnh Hùng - Pum 👋
 
@@ -8,23 +8,20 @@
 🔭 Đang phát triển các dự án cá nhân với .NET để hoàn thiện portfolio.  
 👯 Mở collab trên các dự án .NET, API hoặc fullstack.  
 📫 Liên hệ mình qua: 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- Email: [manhhung02082003@gmail.com](mailto:your-email@example.com)
+<!-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) -->
 
 ### 🛠️ Tech Stack & Tools
-<img src="https://skillicons.dev/icons?i=dotnet,csharp,aspnet,visualstudio,vscode,git,github,azure,sqlserver,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,azure,postgres,mongodb,dotnet, csharp, aspnet, azure, sqlserver" />
+
+<!-- Thêm/bớt icon tại https://skillicons.dev (có sẵn dotnet, csharp, aspnet, azure, sqlserver...) -->
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pum283&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pum283&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pum283&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Pum283&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pum283&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pum283&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
-### 🔥 Contribution Snake
-<img src="https://github.com/Pum283/Pum283/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-👀 **Profile Views**: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Pum283.Pum283&left_color=gray&right_color=purple)
-
-⚡ **Fun fact**: Code .NET mượt nhất khi có ly cà phê sữa đá Việt Nam bên cạnh ☕🇻🇳
+⚡ **Fun fact**: Sáng mà làm ly đen đá không đường thì hết bài ☕ 🇻🇳
