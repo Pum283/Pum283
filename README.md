@@ -60,7 +60,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,sqlserver,postgres,mongodb,html,css,js" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,azure,postgres,mongodb,html,css,js" />
 <!-- Thêm/bớt icon tại https://skillicons.dev (có sẵn dotnet, csharp, aspnet, azure, sqlserver...) -->
 
 ### 📊 GitHub Stats
