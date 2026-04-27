@@ -1,38 +1,42 @@
 <img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Coding Banner" width="100%"/>
 
-# 👋 Hi everyone, I'm Nguyễn Đình Mạnh Hùng (Pum)
+# 👋 Hi there, I'm Nguyễn Đình Mạnh Hùng (Pum)
 
-🖥️ **.NET Developer** from Vietnam  
-💼 Specialized in C#, ASP.NET Core, and Entity Framework  
-🚀 Passionate about building robust backends, high-performance APIs, and enterprise applications  
+🖥️ **Fullstack Developer (.NET)** from Vietnam  
+💼 Strong in C#, ASP.NET Core, and Entity Framework  
+🚀 Passionate about building scalable backends, high-performance APIs, and modern web applications  
 
-🌱 Currently learning:
+💡 Experienced in Java, C, C++, and Frontend development  
+
+🌱 Currently exploring:
 - .NET 8/9
 - Blazor
 - Azure
 - Microservices Architecture  
 
-🔭 Working on personal .NET projects to strengthen my portfolio  
-👯 Open to collaboration on .NET, API, or fullstack projects  
+🔭 Building personal projects to strengthen my fullstack portfolio  
+👯 Open to collaboration on .NET, API, and fullstack projects  
 
-📫 Contact me:
+📫 Reach me at:
 - Email: manhhung02082003@gmail.com  
 
 ---
 
-# 🇻🇳 Chào mọi người, mình là Nguyễn Đình Mạnh Hùng (Pum)
+# 🇻🇳 Xin chào, mình là Nguyễn Đình Mạnh Hùng (Pum)
 
-🖥️ **.NET Developer** đến từ Việt Nam  
-💼 Chuyên về C#, ASP.NET Core, Entity Framework  
-🚀 Đam mê xây dựng backend vững chắc, API hiệu suất cao và ứng dụng doanh nghiệp  
+🖥️ **Fullstack Developer (.NET)** đến từ Việt Nam  
+💼 Thế mạnh với C#, ASP.NET Core và Entity Framework  
+🚀 Đam mê xây dựng backend scalable, API hiệu suất cao và các ứng dụng web hiện đại  
 
-🌱 Hiện đang học:
+💡 Có kinh nghiệm với Java, C, C++, và Frontend  
+
+🌱 Hiện đang tìm hiểu sâu hơn về:
 - .NET 8/9
 - Blazor
 - Azure
-- Microservices  
+- Kiến trúc Microservices  
 
-🔭 Đang phát triển các dự án cá nhân với .NET để hoàn thiện portfolio  
+🔭 Đang xây dựng các dự án cá nhân để phát triển portfolio fullstack  
 👯 Sẵn sàng hợp tác trong các dự án .NET, API hoặc fullstack  
 
 📫 Liên hệ:
