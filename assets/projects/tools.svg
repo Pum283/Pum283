@@ -1,1 +1,19 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 180" width="440" height="180">
+  <style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+  <rect x="1" y="1" width="438" height="178" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <g transform="translate(22 22)" fill="none" stroke="#ffa657" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1 10 V10 M5 6 V14 M9 2 V18 M13 6 V14 M17 8 V12"/></g>
+  <text x="52" y="38" font-size="16" font-weight="700" fill="#f0f6fc">Pum's Tools</text>
+  <g transform="translate(402 24)" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 1 H15 V10 M15 1 L5 11"/><path d="M11 13 V15 H1 V5 H3"/></g>
+  <text x="22" y="70" font-size="12.5" fill="#8b949e">Vietnamese text-to-speech with voice cloning,</text>
+  <text x="22" y="88" font-size="12.5" fill="#8b949e">multi-speaker dialogue and GPU batch processing.</text>
+  <g font-size="11.5" font-weight="600" text-anchor="middle">
+    <rect x="22" y="112" width="59" height="22" rx="11" fill="#0c2d6b"/><text x="51.5" y="127" fill="#79c0ff">Python</text>
+    <rect x="87" y="112" width="59" height="22" rx="11" fill="#4a2410"/><text x="116.5" y="127" fill="#ffa657">Gradio</text>
+    <rect x="152" y="112" width="86" height="22" rx="11" fill="#2e1065"/><text x="195" y="127" fill="#d2a8ff">VieNeu-TTS</text>
+    <rect x="244" y="112" width="33" height="22" rx="11" fill="#0f3d1f"/><text x="260.5" y="127" fill="#7ee787">AI</text>
+  </g>
+  <line x1="22" y1="148" x2="418" y2="148" stroke="#21262d"/>
+  <circle cx="27" cy="163" r="4" fill="#d29922"><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="38" y="167" font-size="12" font-weight="600" fill="#c9d1d9">Runs locally</text>
+  <text x="418" y="167" text-anchor="end" font-size="12" fill="#8b949e">github.com/Pum283</text>
+</svg>
