@@ -1,1 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170">
+  <defs>
+    <linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#059669"/></linearGradient>
+    <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#512BD4"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+  </defs>
+  <rect x="1.5" y="1.5" width="897" height="167" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="450" y1="26" x2="450" y2="144" stroke="#30363d" stroke-width="1.5"/>
 
+  <text x="34" y="46" font-size="19" font-weight="700" fill="#f0f6fc">⚙ Core Stack</text>
+  <text x="34" y="68" font-size="13" fill="#8b949e">Daily driver · Production-ready</text>
+  <rect x="320" y="28" width="96" height="24" rx="6" fill="#064e3b" fill-opacity="0.5" stroke="#34d399" stroke-opacity="0.6"/>
+  <text x="368" y="44.5" text-anchor="middle" font-size="12" font-weight="600" fill="#6ee7b7">Strong</text>
+  <g font-size="12.5" font-weight="600" fill="#6ee7b7" text-anchor="middle">
+    <rect x="34" y="84" width="35" height="26" rx="13" fill="#052e22" stroke="#6ee7b7" stroke-opacity="0.45"/><text x="51.5" y="101.5">C#</text>
+    <rect x="75" y="84" width="103" height="26" rx="13" fill="#052e22" stroke="#6ee7b7" stroke-opacity="0.45"/><text x="126.5" y="101.5">ASP.NET Core</text>
+    <rect x="184" y="84" width="130" height="26" rx="13" fill="#052e22" stroke="#6ee7b7" stroke-opacity="0.45"/><text x="249" y="101.5">Entity Framework</text>
+    <rect x="320" y="84" width="90" height="26" rx="13" fill="#052e22" stroke="#6ee7b7" stroke-opacity="0.45"/><text x="365" y="101.5">SQL Server</text>
+  </g>
+  <rect x="34" y="128" width="382" height="8" rx="4" fill="#21262d"/>
+  <rect x="34" y="128" width="0" height="8" rx="4" fill="url(#a)"><animate attributeName="width" from="0" to="382" dur="1.4s" fill="freeze"/></rect>
+
+  <text x="484" y="46" font-size="19" font-weight="700" fill="#f0f6fc">🌱 Exploring</text>
+  <text x="484" y="68" font-size="13" fill="#8b949e">Leveling up · Cloud &amp; architecture</text>
+  <rect x="770" y="28" width="96" height="24" rx="6" fill="#2e1065" fill-opacity="0.5" stroke="#A78BFA" stroke-opacity="0.6"/>
+  <text x="818" y="44.5" text-anchor="middle" font-size="12" font-weight="600" fill="#c4b5fd">In progress</text>
+  <g
