@@ -1,37 +1,48 @@
-<div align="center">
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="140" alt=".NET" />
+    </td>
+    <td width="65%" align="center">
+      <h1>Nguyễn Đình Mạnh Hùng</h1>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=420&lines=Fullstack+Developer+%C2%B7+.NET;C%23+%C2%B7+ASP.NET+Core+%C2%B7+EF+Core;Scalable+backends+%26+fast+APIs;a.k.a.+Pum+%E2%98%95" alt="Typing SVG" />
+      <br/><br/>
+      <a href="mailto:manhhung02082003@gmail.com"><img src="https://img.shields.io/badge/Email-manhhung02082003%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+M%E1%BA%A1nh+H%C3%B9ng+(Pum)+%F0%9F%91%8B;Fullstack+Developer+(.NET);Scalable+backends+%26+fast+APIs" alt="Typing SVG" />
+## Tech Stack
 
-<a href="mailto:manhhung02082003@gmail.com"><img src="https://img.shields.io/badge/Gmail-manhhung02082003-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<table>
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Cloud, Data & Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,cpp&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure,postgres,mongodb,git,github,vscode,visualstudio&theme=light&perline=7" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>ASP.NET Core · Entity Framework</sub></td>
+    <td align="center"><sub>Responsive web UI</sub></td>
+    <td align="center"><sub>SQL Server · PostgreSQL · MongoDB</sub></td>
+  </tr>
+</table>
 
-</div>
+## Right Now
 
-<br/>
-
-
-public class AboutMe
-{
-    public string Name      => "Nguyễn Đình Mạnh Hùng (Pum)";
-    public string Role      => "Fullstack Developer (.NET) · Vietnam";
-    public string[] Core    => ["C#", "ASP.NET Core", "Entity Framework", "SQL Server"];
-    public string[] Also    => ["Java", "C/C++", "HTML/CSS/JS"];
-    public string[] Learning => [".NET 8/9", "Blazor", "Azure", "Microservices"];
-    public string OpenTo    => ".NET, API & fullstack collaborations";
-    public string Fuel      => "Cà phê đen đá không đường ☕";
-}
-
-
-<div align="center">
-
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,mongodb,java,c,cpp,html,css,js,visualstudio,vscode,git,github&perline=8" />
-
-<br/><br/>
-
-### GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" />
-
-</div>
+<table>
+  <tr>
+    <th align="center">🌱 Exploring</th>
+    <th align="center">🤝 Open to</th>
+    <th align="center">☕ Fuel</th>
+  </tr>
+  <tr>
+    <td align="center">.NET 8/9 · Blazor · Azure · Microservices</td>
+    <td align="center">.NET, API & fullstack collaboration</td>
+    <td align="center">Cà phê đen đá không đường</td>
+  </tr>
+</table>
