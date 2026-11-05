@@ -1,1 +1,18 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 180" width="440" height="180">
+  <style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+  <rect x="1" y="1" width="438" height="178" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <g transform="translate(22 22)" fill="none" stroke="#7ee787" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="4" width="20" height="13" rx="6"/><path d="M5 8 V13 M2.5 10.5 H7.5"/><circle cx="14" cy="9" r="0.8"/><circle cx="16" cy="12" r="0.8"/></g>
+  <text x="52" y="38" font-size="16" font-weight="700" fill="#f0f6fc">Phố Game</text>
+  <g transform="translate(402 24)" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 1 H15 V10 M15 1 L5 11"/><path d="M11 13 V15 H1 V5 H3"/></g>
+  <text x="22" y="70" font-size="12.5" fill="#8b949e">Hub of small browser games that play on desktop</text>
+  <text x="22" y="88" font-size="12.5" fill="#8b949e">and mobile, installable to the home screen.</text>
+  <g font-size="11.5" font-weight="600" text-anchor="middle">
+    <rect x="22" y="112" width="39" height="22" rx="11" fill="#0f3d1f"/><text x="41.5" y="127" fill="#7ee787">PWA</text>
+    <rect x="67" y="112" width="79" height="22" rx="11" fill="#0b3a3f"/><text x="106.5" y="127" fill="#56d4dd">Web games</text>
+    <rect x="152" y="112" width="99" height="22" rx="11" fill="#30363d"/><text x="201.5" y="127" fill="#c9d1d9">Mobile-first</text>
+  </g>
+  <line x1="22" y1="148" x2="418" y2="148" stroke="#21262d"/>
+  <circle cx="27" cy="163" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="38" y="167" font-size="12" font-weight="600" fill="#c9d1d9">Live demo</text>
+  <text x="418" y="167" text-anchor="end" font-size="12" fill="#8b949e">pumgames.vercel.app</text>
+</svg>
