@@ -6,21 +6,41 @@
 
 <a href="mailto:manhhung02082003@gmail.com"><img src="https://img.shields.io/badge/Gmail-manhhung02082003-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/><br/>
+</div>
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,cpp,html,css,js,azure,postgres,mongodb,git,github,vscode,visualstudio&perline=15" />
+<table>
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Cloud & Data</th>
+    <th align="center">Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,cpp&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure,postgres,mongodb&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>ASP.NET Core · Entity Framework</sub></td>
+    <td align="center"><sub>HTML · CSS · JavaScript</sub></td>
+    <td align="center"><sub>SQL Server · PostgreSQL · MongoDB</sub></td>
+    <td align="center"><sub>Visual Studio · VS Code · Git</sub></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <b>🌱 Currently exploring</b>&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Microservices-8B5CF6?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-<sub>ASP.NET Core · Entity Framework · SQL Server · PostgreSQL · MongoDB · Azure</sub>
-
-<br/><br/>
-
-### 🌱 Currently Exploring
-
-`.NET 8/9` &nbsp;·&nbsp; `Blazor` &nbsp;·&nbsp; `Azure` &nbsp;·&nbsp; `Microservices`
-
-<br/>
+<div align="center">
 
 <sub>☕ Powered by cà phê đen đá không đường · a.k.a. <b>Pum</b></sub>
 
