@@ -8,7 +8,7 @@
 
 <br/>
 
-```csharp
+
 public class AboutMe
 {
     public string Name      => "Nguyễn Đình Mạnh Hùng (Pum)";
@@ -19,7 +19,7 @@ public class AboutMe
     public string OpenTo    => ".NET, API & fullstack collaborations";
     public string Fuel      => "Cà phê đen đá không đường ☕";
 }
-```
+
 
 <div align="center">
 
