@@ -51,4 +51,15 @@
       <circle cx="300" cy="78" r="3" opacity="0.6"/>
     </g>
   </g>
-  <text x="610" y="92" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+  <text x="610" y="92" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="700" fill="#f0f6fc">Nguyễn Đình Mạnh Hùng</text>
+  <rect x="380" y="112" width="460" height="2" rx="1" fill="url(#g)"/>
+  <text x="610" y="148" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#c9d1d9">Fullstack Developer · .NET</text>
+  <g clip-path="url(#type)">
+    <text x="440" y="186" textLength="340" lengthAdjust="spacingAndGlyphs" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="16" fill="#A78BFA">C# · ASP.NET Core · Entity Framework</text>
+  </g>
+  <rect x="440" y="172" width="2.5" height="19" fill="#A78BFA">
+    <animate attributeName="x" values="440;780;780;440;440" keyTimes="0;0.35;0.75;0.9;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="610" y="232" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">a.k.a. Pum · Vietnam · ☕ cà phê đen đá không đường</text>
+</svg>
