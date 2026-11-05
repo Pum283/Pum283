@@ -31,3 +31,5 @@
     <rect x="696" y="84" width="110" height="26" rx="13" fill="#1e1238" stroke="#c4b5fd" stroke-opacity="0.45"/><text x="751" y="101.5">Microservices</text>
   </g>
   <rect x="484" y="128" width="382" height="8" rx="4" fill="#21262d"/>
+  <rect x="484" y="128" width="0" height="8" rx="4" fill="url(#b)"><animate attributeName="width" from="0" to="250" dur="1.4s" fill="freeze"/></rect>
+</svg>
